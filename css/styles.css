@@ -3,3 +3,19 @@ body {
 }
 .link {
     text-decoration: none;
+    .social-links .link
+} 
+    {
+    color: teal;
+        }  
+        .social-links .link:hover,
+        .social-links .link:focus {
+            color: orange;
+        }
+                .link {
+                    color: teal;
+                }
+        
+                .link:hover {
+                    color: tomato;
+                }
